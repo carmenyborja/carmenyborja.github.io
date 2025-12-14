@@ -1,0 +1,72 @@
+[
+    {
+        "id": "img1",
+        "url": "/uploads/Imagen de WhatsApp 2025-12-14 a las 11.35.54_4aa7eb4e.jpg",
+        "type": "PHOTO",
+        "caption": "Un momento especial",
+        "date": "2025-12-14T10:00:00.000Z"
+    },
+    {
+        "id": "img2",
+        "url": "/uploads/Imagen de WhatsApp 2025-12-14 a las 11.35.55_ecb0aa23.jpg",
+        "type": "PHOTO",
+        "caption": "Juntos para siempre",
+        "date": "2025-12-14T10:05:00.000Z"
+    },
+    {
+        "id": "vid1",
+        "url": "/uploads/Video de WhatsApp 2025-12-14 a las 11.36.07_0e845702.mp4",
+        "type": "VIDEO",
+        "caption": "Nuestra aventura",
+        "date": "2025-12-14T10:10:00.000Z"
+    },
+    {
+        "id": "img3",
+        "url": "/uploads/Imagen de WhatsApp 2025-12-14 a las 11.36.08_8d0d8eb1.jpg",
+        "type": "PHOTO",
+        "caption": null,
+        "date": "2025-12-14T10:15:00.000Z"
+    },
+    {
+        "id": "vid2",
+        "url": "/uploads/Video de WhatsApp 2025-12-14 a las 11.36.14_172ee2d8.mp4",
+        "type": "VIDEO",
+        "caption": null,
+        "date": "2025-12-14T10:20:00.000Z"
+    },
+    {
+        "id": "vid3",
+        "url": "/uploads/Video de WhatsApp 2025-12-14 a las 11.36.21_81e31495.mp4",
+        "type": "VIDEO",
+        "caption": null,
+        "date": "2025-12-14T10:25:00.000Z"
+    },
+    {
+        "id": "img4",
+        "url": "/uploads/Imagen de WhatsApp 2025-12-14 a las 11.36.22_8d85dd2e.jpg",
+        "type": "PHOTO",
+        "caption": null,
+        "date": "2025-12-14T10:30:00.000Z"
+    },
+    {
+        "id": "vid4",
+        "url": "/uploads/Video de WhatsApp 2025-12-14 a las 11.36.33_53a0022f.mp4",
+        "type": "VIDEO",
+        "caption": null,
+        "date": "2025-12-14T10:35:00.000Z"
+    },
+    {
+        "id": "vid5",
+        "url": "/uploads/Video de WhatsApp 2025-12-14 a las 11.36.36_8355fccc.mp4",
+        "type": "VIDEO",
+        "caption": null,
+        "date": "2025-12-14T10:40:00.000Z"
+    },
+    {
+        "id": "vid6",
+        "url": "/uploads/Video de WhatsApp 2025-12-14 a las 11.36.39_29671acd.mp4",
+        "type": "VIDEO",
+        "caption": null,
+        "date": "2025-12-14T10:45:00.000Z"
+    }
+]
